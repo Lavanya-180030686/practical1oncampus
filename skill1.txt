@@ -1,0 +1,5 @@
+--------DEVOPS--------
+this is my first skilling class in campus
+development+operation=Devops
+devops is not a tool it is a methlodgy
+we use github to store our source code
